@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qyx4k!%v-qo-4tzp3a*_f@e=e2bep==_kfc(y5wy%72wm5n()b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ALLOWED_HOSTS = ['egorel4k.beget.tech', 'www.egorel4k.beget.tech']
 
 
 # Application definition
